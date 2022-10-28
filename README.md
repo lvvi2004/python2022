@@ -1,2 +1,2 @@
 # python2022
-alfa
+lernen
